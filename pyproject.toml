@@ -5,6 +5,7 @@ requires-python = ">=3.13"
 dependencies = [
     "anthropic>=0.39.0",
     "croniter>=2.0.0",
+    "openai>=2.26.0",
     "python-dotenv>=1.0.0",
     "websockets>=12.0",
 ]
